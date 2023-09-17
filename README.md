@@ -1,5 +1,5 @@
 # LibraryHelper
-Sprendžiamo uždavinio aprašymas
+1. Sprendžiamo uždavinio aprašymas
 
 1.1. Sistemos paskirtis
 
@@ -32,8 +32,9 @@ Administratorius galės:
 
 1.	Sistemoje sukurti naują knygyną;
 2.	Užregistruoti/Panaikinti knygyno darbuotojus;
-3.	Užregistruoti/Panaikinti naudotojus.  
-4.	Sistemos architektūra
+3.	Užregistruoti/Panaikinti naudotojus.
+
+2.	Sistemos architektūra
 
 Sistemos sudedamosios dalys:
 
