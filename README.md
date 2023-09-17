@@ -6,7 +6,6 @@ Sprendžiamo uždavinio aprašymas
 Projekto tikslas – palengvinti knygyno darbuotojų darbą, kur darbuotojai galės patogiai matyti ir pažymėti rezervuotas knygas.
 
 Veikimo principas – pačią kuriamą platformą sudaro dvi dalys: internetinė aplikacija, kuria naudosis knygyno darbuotojai, administratorius bei aplikacijų programavimo sąsaja (angl. trump. API).
-
 Knygyno darbuotojas, norėdamas naudotis šia platforma, galės sudaryti knygų sąrašus pagal tam tikrus reikalavimus, juos trinti, redaguoti, pažymėti, kurios knygos jau yra rezervuotos. Sudarytus knygų sąrašus galės matyti naudotojas, kuris galės sukurti rezervaciją specialiai knygai, bei ištrinti ją. Administratorius galės atlikti visas funkcijas, paminėtas aukščiau, bei taip pat turės užregistruoti naujus knygynų darbuotojus. Taip pat jis privalės užregistruoti naujus knygynus, kurie nori naudotis sistema.
 
 1.2. Funkciniai reikalavimai
@@ -34,11 +33,9 @@ Administratorius galės:
 1.	Sistemoje sukurti naują knygyną;
 2.	Užregistruoti/Panaikinti knygyno darbuotojus;
 3.	Užregistruoti/Panaikinti naudotojus.  
-
-2.	Sistemos architektūra
+4.	Sistemos architektūra
 
 Sistemos sudedamosios dalys:
 
 •	Kliento pusė (ang. Front-End) – naudojant Angular;
-
 •	Serverio pusė (angl. Back-End) – naudojant Java Spring Boot. Duomenų bazė – MySQL. 
