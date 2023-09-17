@@ -39,3 +39,4 @@ Sistemos sudedamosios dalys:
 
 •	Kliento pusė (ang. Front-End) – naudojant Angular;
 •	Serverio pusė (angl. Back-End) – naudojant Java Spring Boot. Duomenų bazė – MySQL. 
+Sistemos diegimo diagrama: https://ibb.co/RcMsCyL
